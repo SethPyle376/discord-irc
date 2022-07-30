@@ -38,6 +38,7 @@ import config from './config.json';
 discordIRC(config);
 ```
 
+
 ## Docker
 As an alternative to running discord-irc directly on your machine, we provide a [Docker container image](https://hub.docker.com/r/discordirc/discord-irc).
 After creating a configuration file, you can fetch the image from Docker Hub and run it with the following command:
